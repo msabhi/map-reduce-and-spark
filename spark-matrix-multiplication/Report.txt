@@ -1,0 +1,11 @@
+Q. Size of the input RDD.
+Ans: Size of input RDD = 4562 + 1000
+
+Q2. Size of the output RDD.
+Ans: Size of output RDD = 4562
+
+Q3. Asymptotic number of times the passed function is called in terms of either N (the size of one matrix dimension), |A|, or |B| (the number of non-zero values in the corresponding matrix).
+Ans: size of matrix |A| = 4562
+
+Q4. Asymptotic number of records that need to be communicated between partitions in parallel execution.
+Ans: 
